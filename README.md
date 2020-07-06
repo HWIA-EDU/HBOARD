@@ -1,14 +1,20 @@
-#설치 
-## 
+# 설치 
 
-#사용법
+
+# 사용법
 ## 기본 단축키 ( 변경 가능 )
 ```
 ctrl + prtsc    : 드로잉 모드 진입/해제
+```
+```
 ctrl + alt + .	: Zoom In  
 ctrl + alt + ,	: Zoom Out
 ctrl + alt + /	: Zoom 해제
+```
+```
 ctrl + alt + q	: 드로잉 화면 숨기기/보이기
+```
+```
 esc             : 드로잉 모드 해제 ( 변경 불가 ), Zoom 해제( 변경 불가 )
 ```
 ## 그리기 단축키 ( 변경 불가 )
@@ -63,8 +69,12 @@ ctrl + tab    : 뒤 페이지로 이동(회전)
 ```
 ctrl + 드로잉          : 사각형
 ctrl + shift + 드로잉  : 채워진 사각형
+```
+```
 alt + 드로잉           : 원
 alt + shift + 드로잉   : 채워진 원
+```
+```
 ctrl + alt + 드로잉        : 직선
 ctrl + alt + shift + 드로  : 직선
 ```
