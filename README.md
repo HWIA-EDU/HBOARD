@@ -7,6 +7,7 @@ Windows 10 에서 테스트 되었음
 3. Visual C++ 재배포 가능 패키지가 필요할 수 있다. 다운로드 받아 설치한다.   
 [Visual Studio 2015, 2017 및 2019용 Microsoft Visual C++ 재배포 가능 패키지](https://support.microsoft.com/ko-kr/help/2977003/the-latest-supported-visual-c-downloads)
 
+<img src="https://github.com/HWIA-EDU/HBOARD/blob/master/vc_redist.png"/>
 
 # 사용법
 ## 기본 단축키 ( 변경 가능 )
