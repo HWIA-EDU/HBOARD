@@ -12,7 +12,7 @@ Windows 10 에서 테스트 되었음
 # 사용법
 ## 기본 단축키 ( 변경 가능 )
 ```
-ctrl + prtsc    : 드로잉 모드 진입/해제
+ctrl + alt + h  : 드로잉 모드 진입/해제
 ```
 ```
 ctrl + alt + .	: Zoom In  
