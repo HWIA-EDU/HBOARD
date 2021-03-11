@@ -3,7 +3,8 @@ Windows 10 에서 테스트 되었음
 
 # 설치 
 1. 첨부된 파일(hboard64.3.1.14.7.zip)을 다운로드 받아 압축을 해제하고 원하는 위치에 저장한다.
-2. Visual C++ 재배포 가능 패키지가 필요할 수 있다. 다운로드 받아 설치한다.   
+2. hboardx2.exe 파일을 실행한다.
+3. Visual C++ 재배포 가능 패키지가 필요할 수 있다. 다운로드 받아 설치한다.   
 [Visual Studio 2015, 2017 및 2019용 Microsoft Visual C++ 재배포 가능 패키지](https://support.microsoft.com/ko-kr/help/2977003/the-latest-supported-visual-c-downloads)
 
 <img src="https://github.com/HWIA-EDU/HBOARD/blob/master/vc_redist.png"/>
